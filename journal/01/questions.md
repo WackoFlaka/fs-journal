@@ -3,7 +3,7 @@
     > | ANSWER HERE |
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > 'mkdir' is a command used in command prompt to create a folder
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
