@@ -32,13 +32,13 @@
     > | More importantly good design matters most on readability and catching the audience. It influences people when going into a poorly designed website will cause a lot of distrust or not interested into exploring the website. 
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | Wireframes keep the concept user-focused, wireframes clarify and define website features, and wireframes are quick and cheap to create
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | Wireframes are a great start when creating a website. Especially starting it off with a mockup, layout or a page structure. It helps developers or designers with information and interface out with code. I feel like in my opinion it should be required no matter what, because since there are types of wireframes, its great for developers to do a fresh start where everything should be placed on a website before coding. 
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | Items are arranegd alonged the main axis, from left to right
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Margin, Padding, or Border
