@@ -1,40 +1,41 @@
 # Working in a Professional Environment
-01. What is Inheritance?
 
-> | ANSWER HERE |
+1.  What is Inheritance?
 
-02. What is the `Singleton` design pattern?
+> Inheritance is the process by which one object can be based on another.
 
-> | ANSWER HERE |
+2.  What is the `Singleton` design pattern?
 
-03. What is the `Observer` design pattern?
+> It ensures that the class only has one instance
 
-> | ANSWER HERE |
+3.  What is the `Observer` design pattern?
 
-04. What is the `Strategy` design pattern?
+> To define multiple objects about any events
 
-> | ANSWER HERE |
+4.  What is the `Strategy` design pattern?
 
-05. What is the `Factory` design pattern?
+> Grabs algorithms and puts each of them into a seperate class
 
-> | ANSWER HERE |
+5.  What is the `Factory` design pattern?
 
-06. What is test driven development?
+> An interface for creating objects in a superclass
 
-> | ANSWER HERE |
+6.  What is test driven development?
 
-07. In Scrum/Agile what is the DoD?
+> Its a process where requirements are being test cases before the entire software is developed.
 
-> | ANSWER HERE |
+7.  In Scrum/Agile what is the DoD?
 
-08. Give two examples of a user story:
+> Definition of Done
 
-> | ANSWER HERE |
+8.  Give two examples of a user story:
 
-09. During which ceremony is your Sprint Backlog created?
+> Users can Login and access their account OR users can post, edit, delete, and get images from a website.
 
-> | ANSWER HERE |
+9.  During which ceremony is your Sprint Backlog created?
+
+> Sprint Planning
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> Sprint Review
